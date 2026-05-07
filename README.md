@@ -69,4 +69,4 @@ The project uses electric vehicle population data containing information such as
 Add dashboard screenshots here after uploading them to the repository.
 
 ```md
-![Dashboard Preview](images/dashboard.png)
+![EV Dashboard](Images/Dashboard.png)
